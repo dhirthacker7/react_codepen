@@ -2,6 +2,8 @@
 
 A lightweight and interactive web application inspired by CodePen, allowing users to write, edit, and preview HTML, CSS, and JavaScript code in real-time. The project leverages React for building an intuitive and dynamic user interface.
 
+Deployed app URL: (https://dhirthacker7.github.io/react_codepen/)
+
 ## Features
 
 - **Real-Time Code Execution:** Write and see your changes reflected instantly.
