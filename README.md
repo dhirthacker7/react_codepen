@@ -1,4 +1,4 @@
-# React CodePen Clone
+# React CodePen
 
 A lightweight and interactive web application inspired by CodePen, allowing users to write, edit, and preview HTML, CSS, and JavaScript code in real-time. The project leverages React for building an intuitive and dynamic user interface.
 
